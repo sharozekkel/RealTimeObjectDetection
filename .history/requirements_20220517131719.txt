@@ -1,0 +1,7 @@
+opencv-python
+pandas
+tensorflow
+typing-extensions
+packaging
+gast == 0.3.3
+object-detection

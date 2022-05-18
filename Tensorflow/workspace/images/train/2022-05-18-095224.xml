@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>2022-05-18-095224.jpg</filename>
+	<path>/home/ekkel/work/testing/RealTimeObjectDetection/Tensorflow/workspace/images/data/2022-05-18-095224.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>177</ymin>
+			<xmax>230</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>
