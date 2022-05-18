@@ -1,6 +1,6 @@
 # RealTimeObjectDetection
 
-Create a conda env;
+1. Create a conda env;
   conda create -n asldev python==3.6 -y
   
   
@@ -8,10 +8,10 @@ Install the packages required;
   pip install -r requirements.txt
   
   
-for Inference and training you will need to run main.ipynb.
+2. for Inference and training you will need to run main.ipynb.
 
 
-for collecting data;
+a. for collecting data;
 
   use your camera to collect images.
   
@@ -22,7 +22,7 @@ for collecting data;
   set ouptut and input directory & tick autosave.
   
   
-for training;
+b. for training;
 
   split dataset in train and test folders located in Tensorflow/workspace/images
   
